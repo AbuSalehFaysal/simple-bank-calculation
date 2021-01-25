@@ -1,0 +1,13 @@
+.container {
+    margin-top: 10%;
+}
+.login-area{
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;
+    margin: 50px auto;
+}
+button, .form-control{
+    margin-top: 10px;
+}
